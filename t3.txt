@@ -1,0 +1,12 @@
+ Volume in drive C is WINDOWS
+ Volume Serial Number is E601-A834
+
+ Directory of C:\Users\KIIT\OneDrive\Desktop\New folder
+
+18-11-2022  13:38    <DIR>          .
+18-11-2022  13:38    <DIR>          ..
+18-11-2022  13:32               350 t1.txt
+18-11-2022  13:32               128 t2.txt
+18-11-2022  13:38                 0 t3.txt
+               3 File(s)            478 bytes
+               2 Dir(s)  29,502,615,552 bytes free
